@@ -1,0 +1,18 @@
+
+# Data Analysis
+pandas
+numpy
+openpyxl
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Environment
+jupyter
+ipykernel
+ipython
